@@ -1,0 +1,31 @@
+.text-center{
+    padding-top: 6rem;
+}
+
+h4{
+    font-size: 2rem;
+    color: #000;
+    text-shadow: 1px 1px 5px #6afbe7;
+}
+
+.form-group input {
+    border: 1px solid #000;
+    margin: .5rem 0;
+}
+
+button{
+    padding: .1rem .7rem;
+    border-radius: .5rem;
+    background-color: #000;
+    color: #6afbe7;
+    border: none;
+    transition: 1s;
+    border: 1px solid #6afbe7;
+}
+
+button:hover{
+    background-color: #fff;
+    color: #000;
+    letter-spacing: .1rem;
+    border: 1px solid #000;
+}
